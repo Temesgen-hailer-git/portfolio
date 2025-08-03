@@ -35,7 +35,7 @@ body {
   justify-content: space-between;
   align-items: center;
   z-index: 1000;
-  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .nav-brand {
@@ -99,7 +99,7 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: clamp(2rem, 5vw, 4rem);
   align-items: center;
-  padding: clamp(6rem, 8vw, 8rem) clamp(1rem, 4vw, 2rem) clamp(2rem, 4vw, 4rem);
+  padding: clamp(7rem, 8vw, 8rem) clamp(1rem, 4vw, 2rem) clamp(2rem, 4vw, 4rem);
   max-width: 1200px;
   margin: 0 auto;
   background: linear-gradient(135deg, var(--white), rgba(44, 82, 130, 0.05));
