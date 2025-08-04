@@ -1,1 +1,1 @@
-This document provides a comprehensive overview of my Responsive Personal Portfolio" project, a website built with pure HTML and CSS to showcase the profile. It details the project's features, structure, design system, setup, customization, and maintenance, offering 
+This document provides a comprehensive overview of my Responsive Personal Portfolio project, a website built with vanilla HTML and CSS to showcase the profile. It details the project's features, structure, design system, setup, customization, and maintenance, offering 
