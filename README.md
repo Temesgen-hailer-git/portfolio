@@ -160,7 +160,6 @@ portfolio/
 2. **Open locally**:
    - Simply open `index.html` in your web browser
    - Or use a local server for development:
-   ```bash
    
 
 3. **View in browser**:
