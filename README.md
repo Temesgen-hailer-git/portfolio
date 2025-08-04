@@ -321,21 +321,15 @@ Interested in hiring Temesgen for:
 ## 📄 License
 
 
-```
-Copyright (c) 2025 Temesgen Haile
-
-
 ### 🎨 **Attribution**
 - Icons provided by [Font Awesome](https://fontawesome.com/)
 - Fonts provided by [Google Fonts](https://fonts.google.com/)
 - Built with ❤️ using vanilla HTML & CSS
 
 ---
-
-
-
 **🔄 Fork this repository to create your own version!**
 
+Copyright (c) 2025 Temesgen Haile
 
 
 
