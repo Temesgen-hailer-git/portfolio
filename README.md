@@ -1,6 +1,4 @@
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Mobile_Responsive-Yes-brightgreen)
+
 🌟 Responsive Personal Portfolio: A Comprehensive Overview 🌟
 This document provides an in-depth look at my Responsive Personal Portfolio project, 
 a website meticulously crafted using vanilla HTML and CSS to showcase my profile. 
