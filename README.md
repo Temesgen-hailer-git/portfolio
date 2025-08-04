@@ -234,7 +234,7 @@ Modify colors in `style.css` by editing the `:root` section:
 }
 ```
 
-### 📷 **Images and Assets**
+### 📷 **Images**
 1. **Profile Images**: Replace images in the `/image` directory
    - `image_5.png` - Hero section profile image
    - `image_6.png` - About section image
