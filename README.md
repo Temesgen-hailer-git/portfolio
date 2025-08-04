@@ -292,13 +292,6 @@ Modify colors in `style.css` by editing the `:root` section:
 - **Security**: Monitor and update external CDN links
 - **Browser Testing**: Test across different browsers periodically
 
-### 📱 **Mobile Testing**
-```bash
-# Use browser dev tools to test different screen sizes
-# Test on actual devices when possible
-# Verify touch interactions work properly
-```
-
 ---
 
 ## 📞 Support & Contact
@@ -319,16 +312,16 @@ Found a bug or want to suggest improvements?
 
 ### 🎯 **Professional Services**
 Interested in hiring Temesgen for:
-- Clinical pharmacy consultation
-- Healthcare technology projects
+- Clinical pharmacy services and medical consultation
+- Healthcare technology utilization 
 - AI applications in healthcare
-- Public health research collaboration
+- Public health research and community health
 
 ---
 
 ## 📄 License
 
-### 📜 **MIT License**
+
 ```
 Copyright (c) 2025 Temesgen Haile
 
@@ -340,20 +333,10 @@ Copyright (c) 2025 Temesgen Haile
 
 ---
 
-### 🚀 **Ready to Deploy Your Portfolio?**
 
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/start/deploy?repository=https://github.com/Temesgen-hailer-git/portfolio)
-
-[![Deploy to Vercel](https://img.shields.io/badge/Deploy%20to-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/import/project?template=https://github.com/Temesgen-hailer-git/portfolio)
-
----
-
-**⭐ Star this repository if it helped you build your portfolio!**
 
 **🔄 Fork this repository to create your own version!**
 
----
 
-*Built with passion by [Temesgen Haile](https://temesgenhaile.netlify.app) - Clinical Pharmacist & AI Enthusiast*
 
 
